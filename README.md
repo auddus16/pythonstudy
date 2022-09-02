@@ -1,19 +1,15 @@
-# python study 
-team_name : two summer and one autumn
+# python study
+python 알고리즘 스터디<br>
+백준 단계별 풀어보기
 
-team_member : Park yejin, Kim yunjin, Hwang myongyeon
+## 👩‍💻 스터디원
 
-school : SangMyung University
+| 팀원                            | 이름   | 
+|----------------------------------------| ------ | 
+| [sally5131](https://github.com/sally5131)| 김다혜 | 
+| [yunjin99](https://github.com/yunjin99) | 김윤진 |
+| [auddus16](https://github.com/auddus16)| 황명연 |
 
-major : Computer Science
-
-program : pycharm
-
-source : baekjoon algorithm
-
-purpose : to share the problems which each of us has solved
+## 🗓️ 2021.05 ~ 2021.08
 
 
-Let's study Python Algorithm! Go ahead! 
-
-Please save a file named "problem number_problem name.py" 
